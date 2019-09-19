@@ -1,0 +1,5 @@
+Helpful resources relevant to today's lab:
+
+https://www.computerhope.com/unix/bash/let.htm
+
+http://landoflinux.com/linux_bash_scripting_read.html
